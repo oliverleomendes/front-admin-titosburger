@@ -1,7 +1,7 @@
 document.getElementById("user-welcome").innerText = localStorage.getItem("NAME");
 
 if(!localStorage.getItem("NAME")) {
-    window.location.href = 'index.php';
+    window.location.href = base_url + '/index.php';
 }
 
 

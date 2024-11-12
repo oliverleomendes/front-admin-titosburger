@@ -3,6 +3,7 @@
 </div>
 
 <script>
+    let base_url = '<?= $base_url ?>';
     let base_url_api = '<?= $base_url_api ?>';
 </script>
 <script src="<?=$base_url?>/assets/js/mdb.umd.min.js"></script>
