@@ -43,7 +43,7 @@
             aria-labelledby="navbarDropdownMenuAvatar"
         >
             <li>
-                <a class="dropdown-item" href="#">Logout</a>
+                <a class="dropdown-item" onclick="logout()">Logout</a>
             </li>
         </ul>
     </div>

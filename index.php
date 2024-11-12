@@ -40,6 +40,6 @@
     <footer>
         <?php include_once("includes/footer.php"); ?>
     </footer>
-    <script src="assets/js/login.js"></script>
+    <script src="assets/js/login.min.js"></script>
 </body>
 </html>

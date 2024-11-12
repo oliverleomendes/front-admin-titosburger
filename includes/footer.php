@@ -7,4 +7,4 @@
 </script>
 <script src="<?=$base_url?>/assets/js/mdb.umd.min.js"></script>
 <script src="<?=$base_url?>/assets/js/jquery.js"></script>
-<script src="<?=$base_url?>/assets/js/geral.js"></script>
+<script src="<?=$base_url?>/assets/js/geral.min.js"></script>
