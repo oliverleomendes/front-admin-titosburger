@@ -5,9 +5,8 @@ if(!localStorage.getItem("NAME")) {
 }
 
 
-
 function logout() {
     localStorage.clear();
 
-    window.location.reload();
+    window.location.href = base_url + '/index.php';
 }
